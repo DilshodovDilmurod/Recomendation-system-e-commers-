@@ -17,9 +17,9 @@ Ushbu loyiha asosida:
 - 📈 Talabni prognozlash imkoniyati
 - 💻 Foydalanuvchi interfeysi bilan integratsiya qilish
 
-## 🖼 Ilova Ko‘rinishi
+## 🖼 Model haqida 
 
-Ilova foydalanuvchi uchun quyidagicha ko‘rinadi:
+model ishlashi haqida aniqligi, xatoligi, o'qitish vaqti
 
 ![Ilova skrinshoti 1](Screenshot%202025-05-09%20105603.png)
 ![Ilova skrinshoti 2](Screenshot%202025-05-09%20105624.png)
