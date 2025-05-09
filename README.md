@@ -4,4 +4,4 @@ Recomendation system(e-commers)
 
 Bu ilova foydalanuvchi uchun quyidagicha ko‘rinadi:
 
-![Ilova skrinshoti](Screenshot2025-05-09105603.png)
+![Ilova skrinshoti](Screenshot 2025-05-09 105603.png)
